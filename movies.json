@@ -1,0 +1,894 @@
+[
+    {
+        "id": 1,
+        "movie": "The Shawshank Redemption",
+        "rating": 9.2,
+        "image": "images/shawshank.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0111161/",
+        "genre": "Drama",
+        "summary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+      },
+      {
+        "id": 2,
+        "movie": "The Godfather",
+        "rating": 9.2,
+        "image": "images/godfather.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0068646/",
+        "genre": "Crime",
+        "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+      },
+      {
+        "id": 3,
+        "movie": "The Dark Knight",
+        "rating": 9,
+        "image": "images/dark_knight.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0468569/",
+        "genre": "Action",
+        "summary": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+      },
+      {
+        "id": 4,
+        "movie": "Pulp Fiction",
+        "rating": 8.9,
+        "image": "images/pulp_fiction.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0110912/",
+        "genre": "Crime",
+        "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+      },
+      {
+        "id": 5,
+        "movie": "The Lord of the Rings: The Return of the King",
+        "rating": 9,
+        "image": "images/lotr_return_king.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0167260/",
+        "genre": "Fantasy",
+        "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      },
+      {
+        "id": 6,
+        "movie": "The Good, the Bad and the Ugly",
+        "rating": 8.8,
+        "image": "images/good_bad_ugly.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0060196/",
+        "genre": "Western",
+        "summary": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+      },
+      {
+        "id": 7,
+        "movie": "Fight Club",
+        "rating": 8.8,
+        "image": "images/fight_club.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0137523/",
+        "genre": "Drama",
+        "summary": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+      },
+      {
+        "id": 8,
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": 8.8,
+        "image": "images/lotr_fellowship.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120737/",
+        "genre": "Fantasy",
+        "summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+      },
+      {
+        "id": 9,
+        "movie": "Forrest Gump",
+        "rating": 8.8,
+        "image": "images/forrest_gump.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0109830/",
+        "genre": "Drama",
+        "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+      },
+      {
+        "id": 10,
+        "movie": "Inception",
+        "rating": 8.8,
+        "image": "images/inception.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1375666/",
+        "genre": "Action",
+        "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+      },
+      {
+        "id": 11,
+        "movie": "The Matrix",
+        "rating": 8.7,
+        "image": "images/matrix.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0133093/",
+        "genre": "Action",
+        "summary": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+      },
+      {
+        "id": 12,
+        "movie": "Goodfellas",
+        "rating": 8.7,
+        "image": "images/goodfellas.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0099685/",
+        "genre": "Biography",
+        "summary": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+      },
+      {
+        "id": 13,
+        "movie": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": 8.7,
+        "image": "images/empire_strikes_back.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0080684/",
+        "genre": "Action",
+        "summary": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader."
+      },
+      {
+        "id": 14,
+        "movie": "One Flew Over the Cuckoo's Nest",
+        "rating": 8.7,
+        "image": "images/one_flew_over_cuckoos_nest.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0073486/",
+        "genre": "Drama",
+        "summary": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients."
+      },
+      {
+        "id": 15,
+        "movie": "The Lord of the Rings: The Two Towers",
+        "rating": 8.7,
+        "image": "images/lotr_two_towers.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0167261/",
+        "genre": "Fantasy",
+        "summary": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+      },
+      {
+        "id": 16,
+        "movie": "Seven Samurai",
+        "rating": 8.6,
+        "image": "images/seven_samurai.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0047478/",
+        "genre": "Adventure",
+        "summary": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves."
+      },
+      {
+        "id": 17,
+        "movie": "Se7en",
+        "rating": 8.6,
+        "image": "images/seven.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0114369/",
+        "genre": "Crime",
+        "summary": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+      },
+      {
+        "id": 18,
+        "movie": "City of God",
+        "rating": 8.6,
+        "image": "images/city_of_god.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0317248/",
+        "genre": "Crime",
+        "summary": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+      },
+      {
+        "id": 19,
+        "movie": "The Silence of the Lambs",
+        "rating": 8.6,
+        "image": "images/silence_of_the_lambs.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0102926/",
+        "genre": "Crime",
+        "summary": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+      },
+      {
+        "id": 20,
+        "movie": "Life Is Beautiful",
+        "rating": 8.6,
+        "image": "images/life_is_beautiful.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0118799/",
+        "genre": "Comedy",
+        "summary": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp."
+      },
+      {
+        "id": 21,
+        "movie": "It's a Wonderful Life",
+        "rating": 8.6,
+        "image": "images/wonderful_life.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0038650/",
+        "genre": "Drama",
+        "summary": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed."
+      },
+      {
+        "id": 22,
+        "movie": "Saving Private Ryan",
+        "rating": 8.6,
+        "image": "images/saving_private_ryan.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120815/",
+        "genre": "Drama",
+        "summary": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+      },
+      {
+        "id": 23,
+        "movie": "Spirited Away",
+        "rating": 8.6,
+        "image": "images/spirited_away.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0245429/",
+        "genre": "Animation",
+        "summary": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+      },
+      {
+        "id": 24,
+        "movie": "The Green Mile",
+        "rating": 8.6,
+        "image": "images/green_mile.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120689/",
+        "genre": "Crime",
+        "summary": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+      {
+        "id": 25,
+        "movie": "Interstellar",
+        "rating": 8.6,
+        "image": "images/interstellar.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0816692/",
+        "genre": "Adventure",
+        "summary": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+      },
+      {
+        "id": 26,
+        "movie": "Léon: The Professional",
+        "rating": 8.5,
+        "image": "images/leon_the_professional.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0110413/",
+        "genre": "Action",
+        "summary": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+      },
+      {
+        "id": 27,
+        "movie": "The Usual Suspects",
+        "rating": 8.5,
+        "image": "images/usual_suspects.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0114814/",
+        "genre": "Crime",
+        "summary": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+      },
+      {
+        "id": 28,
+        "movie": "The Lion King",
+        "rating": 8.5,
+        "image": "images/lion_king.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0110357/",
+        "genre": "Animation",
+        "summary": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+      },
+      {
+        "id": 29,
+        "movie": "Terminator 2: Judgment Day",
+        "rating": 8.5,
+        "image": "images/terminator_2.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0103064/",
+        "genre": "Action",
+        "summary": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg."
+      },
+      {
+        "id": 30,
+        "movie": "American History X",
+        "rating": 8.5,
+        "image": "images/american_history_x.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120586/",
+        "genre": "Drama",
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+      },
+      {
+        "id": 31,
+        "movie": "Back to the Future",
+        "rating": 8.5,
+        "image": "images/back_to_the_future.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0088763/",
+        "genre": "Adventure",
+        "summary": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown."
+      },
+      {
+        "id": 32,
+        "movie": "The Pianist",
+        "rating": 8.5,
+        "image": "images/the_pianist.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0253474/",
+        "genre": "Biography",
+        "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+      },
+      {
+        "id": 33,
+        "movie": "The Departed",
+        "rating": 8.5,
+        "image": "images/the_departed.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0407887/",
+        "genre": "Crime",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+      },
+      {
+        "id": 34,
+        "movie": "Gladiator",
+        "rating": 8.5,
+        "image": "images/gladiator.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0172495/",
+        "genre": "Action",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 35,
+        "movie": "The Prestige",
+        "rating": 8.5,
+        "image": "images/the_prestige.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0482571/",
+        "genre": "Drama",
+        "summary": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+      },
+      {
+        "id": 36,
+        "movie": "Apocalypse Now",
+        "rating": 8.5,
+        "image": "images/apocalypse_now.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0078788/",
+        "genre": "Drama",
+        "summary": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+      },
+      {
+        "id": 37,
+        "movie": "City of God",
+        "rating": 8.5,
+        "image": "images/city_of_god.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0317248/",
+        "genre": "Crime",
+        "summary": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+      },
+      {
+        "id": 38,
+        "movie": "The Intouchables",
+        "rating": 8.5,
+        "image": "images/the_intouchables.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1675434/",
+        "genre": "Biography",
+        "summary": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+      },
+      {
+        "id": 39,
+        "movie": "The Silence of the Lambs",
+        "rating": 8.5,
+        "image": "images/silence_of_the_lambs.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0102926/",
+        "genre": "Crime",
+        "summary": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+      },
+      {
+        "id": 40,
+        "movie": "The Lives of Others",
+        "rating": 8.5,
+        "image": "images/the_lives_of_others.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0405094/",
+        "genre": "Drama",
+        "summary": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+      },
+      {
+        "id": 41,
+        "movie": "The Green Mile",
+        "rating": 8.5,
+        "image": "images/the_green_mile.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120689/",
+        "genre": "Crime",
+        "summary": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+      {
+        "id": 42,
+        "movie": "American History X",
+        "rating": 8.5,
+        "image": "images/american_history_x.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120586/",
+        "genre": "Drama",
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+      },
+      {
+        "id": 43,
+        "movie": "The Shining",
+        "rating": 8.4,
+        "image": "images/the_shining.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0081505/",
+        "genre": "Drama",
+        "summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+      },
+      {
+        "id": 44,
+        "movie": "The Departed",
+        "rating": 8.4,
+        "image": "images/the_departed.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0407887/",
+        "genre": "Crime",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+      },
+      {
+        "id": 45,
+        "movie": "The Pianist",
+        "rating": 8.4,
+        "image": "images/the_pianist.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0253474/",
+        "genre": "Biography",
+        "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+      },
+      {
+        "id": 46,
+        "movie": "Gladiator",
+        "rating": 8.4,
+        "image": "images/gladiator.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0172495/",
+        "genre": "Action",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 47,
+        "movie": "City of God",
+        "rating": 8.4,
+        "image": "images/city_of_god.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0317248/",
+        "genre": "Crime",
+        "summary": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+      },
+      {
+        "id": 48,
+        "movie": "The Lives of Others",
+        "rating": 8.4,
+        "image": "images/the_lives_of_others.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0405094/",
+        "genre": "Drama",
+        "summary": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+      },
+      {
+        "id": 49,
+        "movie": "The Untouchables",
+        "rating": 8.4,
+        "image": "images/the_untouchables.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0094226/",
+        "genre": "Crime",
+        "summary": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him."
+      },
+      {
+        "id": 50,
+        "movie": "The Prestige",
+        "rating": 8.4,
+        "image": "images/the_prestige.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0482571/",
+        "genre": "Drama",
+        "summary": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+      },
+      {
+        "id": 51,
+        "movie": "Apocalypse Now",
+        "rating": 8.4,
+        "image": "images/apocalypse_now.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0078788/",
+        "genre": "Drama",
+        "summary": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+      },
+      {
+        "id": 52,
+        "movie": "The Green Mile",
+        "rating": 8.4,
+        "image": "images/the_green_mile.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120689/",
+        "genre": "Crime",
+        "summary": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+      {
+        "id": 53,
+        "movie": "American History X",
+        "rating": 8.4,
+        "image": "images/american_history_x.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120586/",
+        "genre": "Drama",
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+      },
+      {
+        "id": 54,
+        "movie": "The Shining",
+        "rating": 8.4,
+        "image": "images/the_shining.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0081505/",
+        "genre": "Drama",
+        "summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+      },
+      {
+        "id": 55,
+        "movie": "The Departed",
+        "rating": 8.4,
+        "image": "images/the_departed.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0407887/",
+        "genre": "Crime",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+      },
+      {
+        "id": 56,
+        "movie": "The Pianist",
+        "rating": 8.4,
+        "image": "images/the_pianist.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0253474/",
+        "genre": "Biography",
+        "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+      },
+      {
+        "id": 57,
+        "movie": "Gladiator",
+        "rating": 8.4,
+        "image": "images/gladiator.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0172495/",
+        "genre": "Action",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 58,
+        "movie": "City of God",
+        "rating": 8.4,
+        "image": "images/city_of_god.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0317248/",
+        "genre": "Crime",
+        "summary": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+      },
+      {
+        "id": 59,
+        "movie": "The Lives of Others",
+        "rating": 8.4,
+        "image": "images/the_lives_of_others.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0405094/",
+        "genre": "Drama",
+        "summary": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+      },
+      {
+        "id": 60,
+        "movie": "The Untouchables",
+        "rating": 8.4,
+        "image": "images/the_untouchables.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0094226/",
+        "genre": "Crime",
+        "summary": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him."
+      },
+      {
+        "id": 61,
+        "movie": "The Lives of Others",
+        "rating": 8.4,
+        "image": "images/the_lives_of_others.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0405094/",
+        "genre": "Drama",
+        "summary": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+      },
+      {
+        "id": 62,
+        "movie": "The Untouchables",
+        "rating": 8.4,
+        "image": "images/the_untouchables.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0094226/",
+        "genre": "Crime",
+        "summary": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him."
+      },
+      {
+        "id": 63,
+        "movie": "The Prestige",
+        "rating": 8.4,
+        "image": "images/the_prestige.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0482571/",
+        "genre": "Drama",
+        "summary": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+      },
+      {
+        "id": 64,
+        "movie": "Apocalypse Now",
+        "rating": 8.4,
+        "image": "images/apocalypse_now.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0078788/",
+        "genre": "Drama",
+        "summary": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+      },
+      {
+        "id": 65,
+        "movie": "The Green Mile",
+        "rating": 8.4,
+        "image": "images/the_green_mile.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120689/",
+        "genre": "Crime",
+        "summary": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+      {
+        "id": 66,
+        "movie": "American History X",
+        "rating": 8.4,
+        "image": "images/american_history_x.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120586/",
+        "genre": "Drama",
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+      },
+      {
+        "id": 67,
+        "movie": "The Shining",
+        "rating": 8.4,
+        "image": "images/the_shining.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0081505/",
+        "genre": "Drama",
+        "summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+      },
+      {
+        "id": 68,
+        "movie": "The Departed",
+        "rating": 8.4,
+        "image": "images/the_departed.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0407887/",
+        "genre": "Crime",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+      },
+      {
+        "id": 69,
+        "movie": "The Pianist",
+        "rating": 8.4,
+        "image": "images/the_pianist.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0253474/",
+        "genre": "Biography",
+        "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+      },
+      {
+        "id": 70,
+        "movie": "Gladiator",
+        "rating": 8.4,
+        "image": "images/gladiator.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0172495/",
+        "genre": "Action",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 71,
+        "movie": "The Lion King",
+        "rating": 8.4,
+        "image": "images/the_lion_king.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0110357/",
+        "genre": "Animation",
+        "summary": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+      },
+      {
+        "id": 72,
+        "movie": "Terminator 2: Judgment Day",
+        "rating": 8.3,
+        "image": "images/terminator_2.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0103064/",
+        "genre": "Action",
+        "summary": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg."
+      },
+      {
+        "id": 73,
+        "movie": "The Lives of Others",
+        "rating": 8.4,
+        "image": "images/the_lives_of_others.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0405094/",
+        "genre": "Drama",
+        "summary": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+      },
+      {
+        "id": 74,
+        "movie": "The Untouchables",
+        "rating": 8.4,
+        "image": "images/the_untouchables.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0094226/",
+        "genre": "Crime",
+        "summary": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him."
+      },
+      {
+        "id": 75,
+        "movie": "The Prestige",
+        "rating": 8.4,
+        "image": "images/the_prestige.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0482571/",
+        "genre": "Drama",
+        "summary": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+      },
+      {
+        "id": 76,
+        "movie": "Apocalypse Now",
+        "rating": 8.4,
+        "image": "images/apocalypse_now.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0078788/",
+        "genre": "Drama",
+        "summary": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+      },
+      {
+        "id": 77,
+        "movie": "The Green Mile",
+        "rating": 8.4,
+        "image": "images/the_green_mile.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120689/",
+        "genre": "Crime",
+        "summary": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+      {
+        "id": 78,
+        "movie": "American History X",
+        "rating": 8.4,
+        "image": "images/american_history_x.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120586/",
+        "genre": "Drama",
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+      },
+      {
+        "id": 79,
+        "movie": "The Shining",
+        "rating": 8.4,
+        "image": "images/the_shining.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0081505/",
+        "genre": "Drama",
+        "summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+      },
+      {
+        "id": 80,
+        "movie": "The Departed",
+        "rating": 8.4,
+        "image": "images/the_departed.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0407887/",
+        "genre": "Crime",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+      },
+      {
+        "id": 81,
+        "movie": "The Pianist",
+        "rating": 8.5,
+        "image": "images/the_pianist.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0253474/",
+        "genre": "Biography",
+        "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+      },
+      {
+        "id": 82,
+        "movie": "Gladiator",
+        "rating": 8.5,
+        "image": "images/gladiator.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0172495/",
+        "genre": "Action",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 83,
+        "movie": "The Great Dictator",
+        "rating": 8.4,
+        "image": "images/the_great_dictator.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0032553/",
+        "genre": "Comedy",
+        "summary": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime."
+      },
+      {
+        "id": 84,
+        "movie": "Django Unchained",
+        "rating": 8.4,
+        "image": "images/django_unchained.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1853728/",
+        "genre": "Drama",
+        "summary": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+      },
+      {
+        "id": 85,
+        "movie": "The Lives of Others",
+        "rating": 8.4,
+        "image": "images/the_lives_of_others.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0405094/",
+        "genre": "Drama",
+        "summary": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+      },
+      {
+        "id": 86,
+        "movie": "The Departed",
+        "rating": 8.4,
+        "image": "images/the_departed.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0407887/",
+        "genre": "Crime",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+      },
+      {
+        "id": 87,
+        "movie": "Paths of Glory",
+        "rating": 8.4,
+        "image": "images/paths_of_glory.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0050825/",
+        "genre": "Drama",
+        "summary": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them."
+      },
+      {
+        "id": 88,
+        "movie": "WALL·E",
+        "rating": 8.4,
+        "image": "images/wall_e.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0910970/",
+        "genre": "Animation",
+        "summary": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+      },
+      {
+        "id": 89,
+        "movie": "The Shining",
+        "rating": 8.4,
+        "image": "images/the_shining.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0081505/",
+        "genre": "Drama",
+        "summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+      },
+      {
+        "id": 90,
+        "movie": "American History X",
+        "rating": 8.4,
+        "image": "images/american_history_x.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120586/",
+        "genre": "Drama",
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+      },
+      {
+        "id": 91,
+        "movie": "Aliens",
+        "rating": 8.3,
+        "image": "images/aliens.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0090605/",
+        "genre": "Action",
+        "summary": "57 years after Ellen Ripley survived her disastrous ordeal, her escape vessel is recovered after drifting across the galaxy as she slept in cryogenic stasis. Back on earth, nobody believed her story about the \"Aliens\" on the moon LV-426."
+      },
+      {
+        "id": 92,
+        "movie": "Coco",
+        "rating": 8.3,
+        "image": "images/coco.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt2380307/",
+        "genre": "Animation",
+        "summary": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+      },
+      {
+        "id": 93,
+        "movie": "Oldeuboi (Oldboy)",
+        "rating": 8.3,
+        "image": "images/oldboy.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0364569/",
+        "genre": "Action",
+        "summary": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days."
+      },
+      {
+        "id": 94,
+        "movie": "Witness for the Prosecution",
+        "rating": 8.3,
+        "image": "images/witness_for_the_prosecution.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0051201/",
+        "genre": "Crime",
+        "summary": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise."
+      },
+      {
+        "id": 95,
+        "movie": "Das Boot",
+        "rating": 8.3,
+        "image": "images/das_boot.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0082096/",
+        "genre": "Adventure",
+        "summary": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror."
+      },
+      
+      {
+        "id": 97,
+        "movie": "Rear Window",
+        "rating": 8.3,
+        "image": "images/rear_window.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0047396/",
+        "genre": "Mystery",
+        "summary": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder."
+      },
+      {
+        "id": 98,
+        "movie": "3 Idiots",
+        "rating": 8.3,
+        "image": "images/3_idiots.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt1187043/",
+        "genre": "Comedy",
+        "summary": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'."
+      },
+      {
+        "id": 99,
+        "movie": "Toy Story 3",
+        "rating": 8.3,
+        "image": "images/toy_story_3.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0435761/",
+        "genre": "Animation",
+        "summary": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+      },
+      {
+        "id": 100,
+        "movie": "Amélie",
+        "rating": 8.3,
+        "image": "images/amelie.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0211915/",
+        "genre": "Comedy",
+        "summary": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love."
+      }    
+]
